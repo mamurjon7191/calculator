@@ -1,1 +1,1 @@
-# calculator
+# MagicSoft Group (JavaScript)
